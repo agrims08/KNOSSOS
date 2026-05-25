@@ -7,7 +7,18 @@
 * Agrim Sharma
 * Azhaan Pary
 
+## Demo Video
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1RfHFstWY_x70BECaP8Kr1pMpSEGO-t3f/view?usp=sharing">
+     <img 
+      src="https://img.shields.io/badge/▶%20Watch%20Demo-000000?style=for-the-badge&logo=google-drive&logoColor=white" 
+      alt="Watch Demo Video"
+    />
+  </a>
+</p>
+
+This video demonstrates the complete workflow and major functionalities of the project.
 
 
 
